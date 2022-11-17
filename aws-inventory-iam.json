@@ -21,6 +21,7 @@
                 "ec2:DescribeVpcPeeringConnections",
                 "ec2:DescribeVpcs",
                 "ec2:DescribeVpnConnections",
+                "ec2:DescribeAvailabilityZones",
                 
                 "elasticache:DescribeCacheClusters",
                 "elasticache:DescribeCacheEngineVersions",
